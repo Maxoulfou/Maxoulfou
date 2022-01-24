@@ -19,9 +19,9 @@
         devops:     ["Gitlab CI/CD", "Docker", "Kubernetes", "Vagrant", "Terraform"]
     },
     devices: {
-        local-setup {
+        local_setup {
             computer: ["Aorus B550 Pro AC", "Ryzen 7 5800X", "Hyper-x 64Go DDR4 3200Mhz", "Aorus RTX 3070 Master", "MX500 1To", "NVME Samsung EVO 500Go"],
-            dual-boot: ["Windows 11 Pro", "Kali linux 2021.4a"],
+            dual_boot: ["Windows 11 Pro", "Kali linux 2021.4a"],
             others: ["Hyper-x alloy core", "Fox spirit PGM 340 V2", "Hyper-x Cloud II", "Hyper-x Quadcast", "Wish mouse lmao"]
         },
         lab {
