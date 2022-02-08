@@ -13,7 +13,7 @@
     mainTechnologies: {
         php:        ["Laravel", "Symfony"],
         go:         ["DiscordGo", "StormDB", "Iris"],
-        javascript: ["NodeJS", "Discord.js"],
+        javascript: ["NodeJS", "Discord.js", "Angular"],
         databases:  ["PostgreSQL", "MySQL / MariaDB", "Microsoft SQL Server", "Sqlite"],
         networking: ["iptables", "ipset", "*NGINX", "Trafeik"],
         devops:     ["Gitlab CI/CD", "Docker", "Kubernetes", "Vagrant", "Terraform"]
