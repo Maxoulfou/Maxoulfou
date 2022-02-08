@@ -42,9 +42,9 @@
         Toeic: ["Successfully"]
     },
     gmae: {
-        fortnite: ["level 98"],
+        fortnite: ["level 205"],
         rainbow_six_siege: ["LMAO - Cooper"],
-        satisfactory: ["finish the game"]
+        satisfactory: ["finished the game"]
     }
 }
 ```
