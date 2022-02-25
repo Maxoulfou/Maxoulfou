@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxence'</h1>
+<p align="center" style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxoulfou&theme=dark&background=0d1117&border=false">
+</p>
 <h3 align="center">Am young backend dev and junior sysadmin. I want to be a confirmed DevOps.</h3>
 
 <h1></h1>
@@ -55,5 +58,4 @@
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Maxoulfou&show_icons=false&hide_border=true&custom_title=Statistics&include_all_commits=true&theme=dark&bg_color=0d1117&line_height=27">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoulfou&theme=dark&hide_border=true&custom_title=Most%20used&bg_color=0d1117&layout=compact">
 </p>
-
 <h1></h1>
