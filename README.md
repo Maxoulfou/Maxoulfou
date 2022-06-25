@@ -9,23 +9,22 @@
 ```js
 {
     languages: {
-        back:       ["C", "PHP", "Go"],
-        front:      ["Javascript", "CSS", "SASS/SCSS", "HTML"],
-        query:      ["GraphQL", "SQL"]
+        back:       ["C", "C++", "PHP", "Go"],
+        front:      ["HTML", "CSS", "Javascript", "SASS/SCSS"]
     },
     mainTechnologies: {
         php:        ["Laravel", "Symfony"],
-        go:         ["DiscordGo", "StormDB", "Iris"],
+        go:         ["DiscordGo", "StormDB", "Iris", "Viper", "Cobra"],
         javascript: ["NodeJS", "Discord.js", "Angular"],
         databases:  ["PostgreSQL", "MySQL / MariaDB", "Microsoft SQL Server", "Sqlite"],
-        networking: ["iptables", "ipset", "*NGINX", "Trafeik"],
-        devops:     ["Gitlab CI/CD", "Docker", "Kubernetes", "Vagrant", "Terraform"]
+        networking: ["iptables", "ipset", "NGINX", "Traefik"],
+        devops:     ["Github Actions", "Gitlab CI/CD", "Docker", "Kubernetes", "Vagrant", "Terraform"]
     },
     devices: {
         local_setup: {
             computer: ["Aorus B550 Pro AC", "Ryzen 7 5800X", "Hyper-x 64Go DDR4 3200Mhz", "Aorus RTX 3070 Master", "MX500 1To", "NVME Samsung EVO 500Go"],
             dual_boot: ["Windows 11 Pro", "Kali linux 2021.4a"],
-            others: ["Hyper-x alloy core", "Fox spirit PGM 340 V2", "Hyper-x Cloud II", "Hyper-x Quadcast", "Wish mouse lmao"]
+            devices: ["Hyper-x alloy core", "Fox spirit PGM 340 V2", "Hyper-x Cloud II", "Hyper-x Quadcast", "Corsair black mouse"]
         },
         lab: {
             servers: ["Dell Poweredge R410", "Synology DS218J+", "Synology DS918+"],
@@ -35,7 +34,9 @@
     },
     projects: {
         presensio_API: ["online"],
-        brochier[dot]xyz: ["offline"]
+        brochier[dot]xyz: ["offline"],
+        GoGetMacLookup: ["in progress ..."]
+        rdvm: ["first release is published on my gh"]
     },
     certification: {
         cisco_CCNA: ["In progress ..."],
@@ -43,11 +44,6 @@
         LPI_C1: ["In progress ..."],
         CEHV11: ["Not started"],
         Toeic: ["Successfully"]
-    },
-    gmae: {
-        fortnite: ["level 205"],
-        rainbow_six_siege: ["LMAO - Cooper"],
-        satisfactory: ["finished the game"]
     }
 }
 ```
