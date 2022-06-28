@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxence'</h1>
 <p align="center" style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxoulfou&theme=dark&background=0d1117&border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxoulfou&theme=dark&background=0d1117&border=false" alt="contrib and streak overview">
 </p>
 <h3 align="center">Am young backend dev and junior sysadmin. I want to be a confirmed DevOps.</h3>
 
