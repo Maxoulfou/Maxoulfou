@@ -7,6 +7,12 @@
 
 <h1></h1>
 
+<div align="center">
+<a href="https://github.com/maxoulfou" target="_blank">
+<img src="/github-metrics.svg" alt="Metrics">
+</div>
+
+
 ```js
 {
     languages: {
