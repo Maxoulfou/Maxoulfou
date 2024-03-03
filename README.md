@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maxence'</h1>
+<h1 align="center">Hi 👋, I'm Maxence</h1>
 <p align="center" style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxoulfou&theme=dark&background=0d1117&border=true" alt="contrib and streak overview">
     <br><img src="https://discord.c99.nl/widget/theme-4/338773134914093057.png" alt="Discord">
