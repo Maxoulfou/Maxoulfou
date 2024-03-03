@@ -3,8 +3,9 @@
     <div align="center">
         <a href="https://github.com/maxoulfou" target="_blank">
         <img src="/github-metrics.svg" alt="Metrics">
+    
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxoulfou&theme=dark&background=0d1117&border=true" alt="contrib and streak overview">
     </div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxoulfou&theme=dark&background=0d1117&border=true" alt="contrib and streak overview">
     <br><img src="https://discord.c99.nl/widget/theme-4/338773134914093057.png" alt="Discord">
 </p>
 <h3 align="center">I'm a technology plant engineer at Takeda Pharmaceutical AG at the Global DDT Team.</h3>
